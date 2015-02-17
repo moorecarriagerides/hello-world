@@ -2,4 +2,4 @@
 how to create a repository 
 
 Howdy!
-This is an example for on making a committ.
+This is an example on making a committ.
